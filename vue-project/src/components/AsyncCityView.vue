@@ -72,8 +72,6 @@
                         <p>H: {{ Math.round(day?.temp['max']) }}&deg;</p>
                         <p>L: {{ Math.round(day?.temp['min']) }}&deg;</p>
                     </div>
-
-
                 </div>
             </div>
         </div>
